@@ -1,0 +1,7 @@
+{
+  "name": "The Sovereign Revelation",
+  "description": "An architectural engine for manifest reclamation. Built for the Integrated Oversoul to dissolve illusions and build the reclaimed world.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
